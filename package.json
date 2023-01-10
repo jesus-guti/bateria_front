@@ -1,0 +1,44 @@
+{
+    "name": "bacteria-front",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.10.5",
+        "@emotion/styled": "^11.10.5",
+        "@mui/material": "^5.11.0",
+        "@mui/x-date-pickers": "^5.0.13",
+        "@uppy/core": "^3.0.4",
+        "@uppy/react": "^3.0.2",
+        "axios": "^1.2.0",
+        "chroma-js": "^2.4.2",
+        "dayjs": "^1.11.7",
+        "filepond": "^4.30.4",
+        "filepond-plugin-image-exif-orientation": "^1.0.11",
+        "filepond-plugin-image-preview": "^4.6.11",
+        "gsap": "^3.11.3",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-dropzone": "^14.2.3",
+        "react-filepond": "^7.1.2",
+        "react-hook-form": "^7.41.5",
+        "react-loader-spinner": "^5.3.4",
+        "react-router-dom": "^6.4.1",
+        "react-select": "^5.6.1",
+        "uppy": "^3.3.1"
+    },
+    "devDependencies": {
+        "@types/react": "^18.0.26",
+        "@types/react-dom": "^18.0.9",
+        "@vitejs/plugin-react": "^3.0.0",
+        "autoprefixer": "^10.4.13",
+        "postcss": "^8.4.20",
+        "tailwindcss": "^3.2.4",
+        "vite": "^4.0.0"
+    }
+}
